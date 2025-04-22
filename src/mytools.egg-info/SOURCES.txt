@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/mytools/__init__.py
+src/mytools/tool1.py
+src/mytools/tool2.py
+src/mytools.egg-info/PKG-INFO
+src/mytools.egg-info/SOURCES.txt
+src/mytools.egg-info/dependency_links.txt
+src/mytools.egg-info/top_level.txt
+src/myutils/__init__.py
+src/myutils/utils1.py
+src/myutils/utils2.py
+tests/test_tools.py
+tests/test_utils.py
