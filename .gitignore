@@ -1,0 +1,33 @@
+# Python build artifacts
+
+**pycache**/ \*.pyc \*.pyo \*.pyd .Python build/ dist/ \*.egg-info/
+
+# Virtual environments
+
+venv/ .venv/ env/ ENV/
+
+# IDE/Editor files
+
+.idea/ .vscode/ \*.sublime-project \*.sublime-workspace
+
+# Testing and coverage
+
+.coverage coverage.xml \*.cover .pytest_cache/
+
+# Logs and temporary files
+
+\*.log \*.tmp \*.bak \*.swp
+
+# System files
+
+.DS_Store Thumbs.db
+
+# Miscellaneous
+
+\*.pid \*.seed \*.pid.lock
+
+# Project-specific exclusions (add any custom patterns here)
+
+# Example: ignore specific temporary test outputs
+
+tests/output/

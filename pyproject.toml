@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "mytools"
 version = "0.1.0"
-description = "A Python package providing mytools and myutils packages with utility classes."
+description = "A Python package providing mytools and myutils packages with utility classes, including examples and documentation."
 readme = "README.md"
 requires-python = ">=3.6"
 license = {file = "LICENSE"}
@@ -21,3 +21,4 @@ classifiers = [
 [project.urls]
 Homepage = "https://github.com/yourusername/mytools"
 Repository = "https://github.com/yourusername/mytools"
+Documentation = "https://github.com/yourusername/mytools/tree/main/docs"
