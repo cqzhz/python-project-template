@@ -31,3 +31,4 @@ venv/ .venv/ env/ ENV/
 # Example: ignore specific temporary test outputs
 
 tests/output/
+/dist/
